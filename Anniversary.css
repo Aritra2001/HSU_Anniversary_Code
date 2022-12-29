@@ -1,0 +1,140 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+position: absolute;
+width: 100%;
+height: 2240px;
+background-color: #04040F;
+}
+.bg {
+position: absolute;
+width: 565.5px;
+height: 1298px;
+left: 467px;
+top: 448px;
+background: rgba(84, 51, 176, 0.5);
+filter: blur(225px);
+}
+.heading {
+    position: absolute;
+    width: 863px;
+    height: 113px;
+    left: 350px;
+    top: 51px;
+    
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 84px;
+    line-height: 106px;
+    
+    background: linear-gradient(90deg, #31DAFF -1.16%, #DF3673 21.74%, #FFA217 44.63%, #F6F96D 67.33%, #5ADB7A 81.72%, #33C1E0 98.75%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+   
+}
+.star {
+    position: absolute;
+    left: 4.38%;
+    right: 89.65%;
+    top: 7.31%;
+    bottom: 88.67%;
+}
+.hero-1 {
+    position: absolute;
+    width: 1094px;
+    height: 161px;
+    left: 203px;
+    top: 312px;
+    
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 76px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    
+}
+.hero-2 {
+    position: absolute;
+    width: 1069px;
+    height: 1196px;
+    left: 216px;
+    top: 604px;
+    
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 68px;
+    
+    color: #FFFFFF;
+}
+.hero-2 input {
+    background: transparent;
+    padding: 3px;
+    border-color: #000000 2px;
+    color: #FFFFFF;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 68px;
+    width: 420px;
+}
+.ackno {
+    margin-left: 800px;
+}
+.sender {
+    background: transparent;
+    padding: 3px;
+    border-color: #000000 2px;
+    color: #FFFFFF;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 68px;
+    width: 420px;
+    margin-left: 650px;
+}
+.letter {
+    font-size: 40px;
+}
+.send button {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 186px;
+    height: 77px;
+    left: 625px;
+    top: 1980px;
+    
+    background: transparent;
+    border: 1.5px solid #d8d6d6;
+    border-radius: 9px;
+    
+    
+    /* Send */
+    
+    
+    position: absolute;
+    width: 126px;
+    height: 50px;
+    left: 663px;
+    top: 1985px;
+    
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 150;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #FFFFFF;
+}
+
